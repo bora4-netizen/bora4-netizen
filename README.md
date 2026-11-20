@@ -1,111 +1,104 @@
 <div align="center">
 
-<!-- Animated typing banner -->
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=%24+whoami;root%40YOUR_USERNAME;%24+sudo+access+granted...;Initializing+profile..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=FF0033&background=0A0A0A&center=true&vCenter=true&width=650&height=70&lines=HELLO%2C+FRIEND.;SYSTEM+BREACH+DETECTED...;fsociety+%2F+YOUR_USERNAME;CONTROL+IS+AN+ILLUSION." alt="Typing SVG" />
 </a>
 
-![](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/ACCESS-ROOT-00ff41?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/SHELL-zsh-00ff41?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=0d1117)
+```text
+  ███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
+  ██╔════╝██╔════╝██╔═══██╗██╔════╝██║██╔════╝╚══██╔══╝╚██╗ ██╔╝
+  █████╗  ███████╗██║   ██║██║     ██║█████╗     ██║    ╚████╔╝
+  ██╔══╝  ╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝
+  ██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║
+  ╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝
+```
+
+![](https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM-ff0033?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/TRACE-BLOCKED-ff0033?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/PROXY-ENABLED-ff0033?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
 ---
 
-```bash
-root@YOUR_USERNAME:~$ cat about.txt
-```
-
-```yaml
-name:      YOUR NAME
-alias:     YOUR_USERNAME
-location:  Phnom Penh, Cambodia
-role:      Developer / Tinkerer / Terminal Enthusiast
-os:        Arch Linux (btw)
-editor:    Neovim
-shell:     zsh + tmux
-currently: Building something cool
-learning:  Rust, Linux internals, networking
-motto:     "There is no place like 127.0.0.1"
-```
-
----
-
-```bash
-root@YOUR_USERNAME:~$ neofetch
-```
+### `[ BOOT SEQUENCE ]`
 
 ```text
-        .--.           root@YOUR_USERNAME
-       |o_o |          ------------------
-       |:_/ |          OS: Linux x86_64
-      //   \ \         Host: GitHub
-     (|     | )        Uptime: since 2020
-    /'\_   _/`\        Packages: too many
-    \___)=(___/        Shell: zsh 5.9
-                       Terminal: alacritty
-                       CPU: Caffeine-powered
-                       Memory: 99% coffee
+[  OK  ] Loading kernel modules...
+[  OK  ] Mounting encrypted volume /dev/sda2
+[  OK  ] Starting Tor service
+[  OK  ] Spoofing MAC address
+[ WARN ] Coffee level critically low
+[  OK  ] Welcome back, YOUR_USERNAME
 ```
 
 ---
 
-```bash
-root@YOUR_USERNAME:~$ ls ~/skills
+### `[ TARGET PROFILE ]`
+
+```json
+{
+  "alias": "YOUR_USERNAME",
+  "name": "YOUR NAME",
+  "origin": "Phnom Penh, Cambodia",
+  "role": "Developer / Security Enthusiast",
+  "weapons": ["Python", "Bash", "Linux", "Neovim"],
+  "currently_hacking": "Something cool",
+  "studying": ["Networking", "Cryptography", "Linux internals"],
+  "quote": "Sometimes I dream about saving the world. Saving everyone from the invisible hand."
+}
 ```
+
+---
+
+### `[ ARSENAL ]`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ff0033)
+![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=ff0033)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=ff0033)
+![Kali](https://img.shields.io/badge/Kali-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=ff0033)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=ff0033)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ff0033)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ff0033)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0a0a?style=for-the-badge&logo=wireshark&logoColor=ff0033)
 
 </div>
 
 ---
 
-```bash
-root@YOUR_USERNAME:~$ ./stats.sh
-```
+### `[ INTEL ]`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff0033&text_color=ffffff&icon_color=ff0033&ring_color=ff0033" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff0033&text_color=ffffff" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00ff41" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0a0a0a&stroke=ff0033&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 
 </div>
 
 ---
 
-```bash
-root@YOUR_USERNAME:~$ git log --pretty=oneline --author="YOUR_USERNAME" -3
-```
+### `[ ACTIVITY LOG ]`
 
 ```text
-a1b2c3d (HEAD -> main) feat: ship something awesome
-e4f5g6h fix: squash another bug at 3am
-i7j8k9l init: hello world
+$ git log --oneline -3
+f50c13t (HEAD -> main) exploit: found the vulnerability in my own code
+d3adb33f fix: patched at 3:47 AM
+c0ffee1 init: hello, friend
 ```
 
 ---
 
-```bash
-root@YOUR_USERNAME:~$ cat contact.txt
-```
+### `[ ESTABLISH SECURE CHANNEL ]`
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff41)](https://t.me/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR_HANDLE)
+[![Telegram](https://img.shields.io/badge/Telegram-0a0a0a?style=for-the-badge&logo=telegram&logoColor=ff0033)](https://t.me/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=protonmail&logoColor=ff0033)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff0033)](https://linkedin.com/in/YOUR_HANDLE)
 
 </div>
 
@@ -113,13 +106,11 @@ root@YOUR_USERNAME:~$ cat contact.txt
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg)
-
-```bash
-root@YOUR_USERNAME:~$ exit
-logout. connection closed. see you in the matrix_
+```text
+> connection terminated.
+> we are fsociety. we are finally free. we are finally awake.
 ```
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=00ff41&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=INTRUDERS&color=ff0033&style=for-the-badge" />
 
 </div>
