@@ -1,32 +1,28 @@
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chork%20Bora&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" />
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Bora+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Modern+Web+Apps+%26+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Bora+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+Frontend+%26+Backend;Building+Modern+Web+Apps+%26+RESTful+APIs" alt="Typing Animation" />
 </div>
 
----
+<br/>
 
-### 🚀 About Me
-- 🔭 Building full-stack web applications with **Laravel, Vue.js, Nuxt.js, React, and Tailwind CSS**
-- 🌱 Exploring scalable API architecture and database design
-- 💻 Working across **Ubuntu Linux** and **Windows** environments
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
 
----
+### 👨‍💻 About Me
+- 🔭 Full-Stack Web Developer specializing in responsive web interfaces and scalable backend systems
+- 🚀 Building applications with **Laravel, Vue.js, Nuxt.js, React, and Tailwind CSS**
+- 🗄️ Designing RESTful APIs and relational databases (**MySQL, SQLite**)
+- 💻 Experienced across **Ubuntu Linux** and **Windows** development workflows
+- 🌐 Check out my work: **[bora-portfolio](https://github.com/bora4-netizen/bora-portfolio)**
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nuxtjs,tailwind,php,laravel,nodejs,java,spring,mysql,sqlite,git,linux" alt="Tech Stack" />
-</p>
-
----
-
-### 🎬 Featured Project Preview
-<!-- Drag and drop a .gif file here on GitHub, or replace with your YouTube thumbnail link -->
-- **[bora-portfolio](https://github.com/bora4-netizen/bora-portfolio)** — Personal developer portfolio showcasing frontend UI and web projects
-- **[Shoping](https://github.com/bora4-netizen/Shoping)** — Full-stack/JavaScript web application
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bora4-netizen&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bora4-netizen&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
+```json
+{
+  "name": "Chork Bora",
+  "username": "bora4-netizen",
+  "role": "Full-Stack Web Developer",
+  "frontend": ["HTML5", "CSS3", "JavaScript", "React", "Vue.js", "Nuxt.js", "Tailwind CSS"],
+  "backend": ["PHP", "Laravel", "Node.js", "Strapi", "Java", "Spring Boot"],
+  "databases": ["MySQL", "SQLite"],
+  "tools": ["Git", "GitHub", "VS Code", "Vite", "Nginx", "Apache", "Linux"]
+}
