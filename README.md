@@ -1,75 +1,76 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,50:312e81,100:0891b2&text=BORA.exe&fontColor=67E8F9&fontSize=65&animation=fadeIn&stroke=67E8F9&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020604,50:064e3b,100:10b981&height=180&section=header&text=BORA%20CHORK&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" />
 
-### `> Full-Stack Developer`
+# SOFTWARE DEVELOPER
 
-**Building the future, one line of code at a time.**
+**Building digital experiences through code.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=550&lines=Frontend+Developer;Backend+Developer;Creative+Problem+Solver;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Creative+Problem+Solver;Always+Learning+%26+Building" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0f172a?style=flat-square&logo=github&logoColor=67e8f9)](https://github.com/bora4-netizen)
-[![Email](https://img.shields.io/badge/Email-Contact-0f172a?style=flat-square&logo=gmail&logoColor=67e8f9)](mailto:chorkbora4@gmail.com)
+[GitHub](https://github.com/bora4-netizen) · [Email](mailto:chorkbora4@gmail.com)
 
 </div>
 
 ---
 
-## `01. // ABOUT_ME`
+## 01. ABOUT
 
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Bora";
-    this.role = "Full-Stack Developer";
-    this.country = "Cambodia";
-    this.languages = ["JavaScript", "PHP", "Java"];
-    this.frontend = ["React", "Vue", "Tailwind CSS"];
-    this.backend = ["Laravel", "Spring Boot"];
-    this.databases = ["MySQL", "PostgreSQL"];
-    this.currentFocus = "Spring Boot & REST APIs";
-  }
+I'm Bora, a Full-Stack Web Developer from Cambodia 🇰🇭.
 
-  getStatus() {
-    return "Always learning and building 🚀";
-  }
-}
+I enjoy creating modern web applications, developing backend systems, and exploring new technologies.
 
-const bora = new Developer();
-```
+- 💻 Interested in Full-Stack Development
+- 🌱 Currently learning Java Spring Boot
+- 🚀 Working with React, Vue, Laravel, and Java
+- 🎯 Focused on continuous improvement
 
-## `02. // TECHNOLOGIES`
+## 02. TECHNOLOGIES
+
+**Frontend**
+
+![HTML](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=34d399)
+![CSS](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=34d399)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=34d399)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=34d399)
+![Vue](https://img.shields.io/badge/Vue-111827?style=flat-square&logo=vuedotjs&logoColor=34d399)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=34d399)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=34d399)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=34d399)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=34d399)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=34d399)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=34d399)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=34d399)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=34d399)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=34d399)
+
+---
+
+## 03. SELECTED PROJECTS
+
+| Project | Description |
+|---|---|
+| [Portfolio](https://github.com/bora4-netizen/bora-portfolio) | Personal portfolio |
+| [Cherry Cheeks](https://github.com/xzidx/Cherry-Cheeks-Cosmetic-Shop) | Cosmetics e-commerce |
+| [Smart Locker](https://github.com/khemmonydv-ui/smart-locker-system) | Locker management system |
+
+---
+
+## 04. GITHUB ANALYTICS
 
 <div align="center">
 
-### FRONTEND
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" />
+<img src="https://github-readme-stats.vercel.app/api?username=bora4-netizen&show_icons=true&hide_border=true&bg_color=080d0b&title_color=34d399&icon_color=34d399&text_color=e5e7eb" width="95%" />
 
-### BACKEND
-<img src="https://skillicons.dev/icons?i=php,laravel,java,spring" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bora4-netizen&layout=compact&hide_border=true&bg_color=080d0b&title_color=34d399&text_color=e5e7eb" width="70%" />
 
-### DATABASE & TOOLS
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman" />
-
-</div>
-
-## `03. // PROJECTS`
-
-| PROJECT | DESCRIPTION | STACK |
-|---|---|---|
-| [Portfolio](https://github.com/bora4-netizen/bora-portfolio) | Personal portfolio | React |
-| [Cherry Cheeks](https://github.com/xzidx/Cherry-Cheeks-Cosmetic-Shop) | Online cosmetics shop | React |
-| [Smart Locker](https://github.com/khemmonydv-ui/smart-locker-system) | Locker management | Laravel |
-
-## `04. // GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bora4-netizen&show_icons=true&theme=transparent&title_color=67e8f9&icon_color=818cf8&text_color=cbd5e1&border_color=334155" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bora4-netizen&layout=compact&theme=transparent&title_color=67e8f9&text_color=cbd5e1&border_color=334155" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=bora4-netizen&theme=transparent&ring=67e8f9&fire=818cf8&currStreakLabel=67e8f9&sideLabels=cbd5e1&border=334155" />
+<img src="https://streak-stats.demolab.com?user=bora4-netizen&hide_border=true&background=080d0b&ring=34d399&fire=10b981&currStreakLabel=34d399&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff" width="95%" />
 
 </div>
 
@@ -77,22 +78,10 @@ const bora = new Developer();
 
 <div align="center">
 
-### `> CONNECT_WITH_ME`
+### LET'S BUILD SOMETHING MEANINGFUL.
 
-**Let's build something extraordinary.**
+**Thanks for visiting my profile.**
 
-<a href="https://github.com/bora4-netizen">
-<img src="https://img.shields.io/badge/GITHUB-67E8F9?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-<a href="mailto:chorkbora4@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-818CF8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-`[ SYSTEM STATUS: ONLINE ]`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:020617&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:064e3b,100:020604&height=100&section=footer" width="100%" />
 
 </div>
