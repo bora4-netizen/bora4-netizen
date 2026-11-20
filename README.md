@@ -1,11 +1,29 @@
-<!-- Animated Matrix / Terminal Typing Header -->
+<!-- 8-Bit Retro Pixel Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&border=true&width=720&height=70&lines=root%40bora4-netizen%3A~%24+.%2Finit_profile.sh;Loading+Full-Stack+Web+Developer+modules...;%5BOK%5D+Laravel+%7C+Vue.js+%7C+Nuxt.js+%7C+React+%7C+Node.js" alt="Terminal Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,50:701a75,100:be185d&height=160&section=header&text=PLAYER%201:%20BORA&fontSize=46&fontColor=FDE047&animation=twinkling&fontAlignY=45&desc=CLASS:%20FULL-STACK%20WEB%20ARCHITECT&descAlignY=72&descSize=16&descColor=FFFFFF" alt="Arcade Banner" />
 </div>
 
-```text
-  ____                   _  _                _   _              
- | __ )  ___  _ __ __ _ | || |    _ __   ___| |_(_)_______ _ __  
- |  _ \ / _ \| '__/ _` || || |_  | '_ \ / _ \ __| |_  / _ \ '_ \ 
- | |_) | (_) | | | (_| |__   _| | | | |  __/ |_| |/ /  __/ | | |
- |____/ \___/|_|  \__,_|  |_|   |_| |_|\___|\__|_/___\___|_| |_|
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=2600&pause=900&color=FDE047&background=1E1B4B&center=true&vCenter=true&border=true&width=700&height=65&lines=INSERT+COIN+TO+START...;QUEST:+BUILD+SCALABLE+WEB+APPS;EQUIPPED:+LARAVEL+%2B+VUE+%2B+REACT+%2B+NODE" alt="Pixel Typing" />
+</div>
+
+<br/>
+
+### 🕹️ Character Stats & Inventory
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
+```yaml
+PLAYER_ID:    Chork Bora (@bora4-netizen)
+CLASS:        Full-Stack Web Developer
+SERVER:       Cambodia (UTC+7)
+BASE_CAMP:    Ubuntu Linux & Windows
+MAIN_QUEST:   Designing fast, responsive web applications & APIs
+
+ATTRIBUTES:
+  Frontend_UI:    [██████████░░] 85%  (React, Vue, Nuxt, Tailwind)
+  Backend_Logic:  [██████████░░] 85%  (Laravel, Node.js, Spring Boot)
+  Database_Lore:  [█████████░░░] 80%  (MySQL, SQLite, ERD Design)
+  DevOps_Tools:   [████████░░░░] 75%  (Git, Nginx, Apache, Linux)
