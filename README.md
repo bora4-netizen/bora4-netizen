@@ -1,48 +1,32 @@
-# Hi there, I'm Bora 👋
-
-Full-Stack Web Developer passionate about building responsive web applications, RESTful APIs, and clean user interfaces.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Bora+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Modern+Web+Apps+%26+APIs" alt="Typing SVG" />
+</div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building full-stack web applications and backend systems
-- 🌱 Exploring modern frontend frameworks, API architecture, and database design
-- 💻 Experienced with both Linux (Ubuntu) and Windows development environments
-- ⚡ Always learning by building real-world projects
+- 🔭 Building full-stack web applications with **Laravel, Vue.js, Nuxt.js, React, and Tailwind CSS**
+- 🌱 Exploring scalable API architecture and database design
+- 💻 Working across **Ubuntu Linux** and **Windows** environments
 
 ---
 
 ### 🛠️ Tech Stack
-
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- React, Vue.js, Nuxt.js
-- Tailwind CSS
-
-**Backend & APIs**
-- PHP, Laravel
-- Node.js, Strapi, Spring Boot
-- RESTful APIs
-
-**Databases & Tools**
-- MySQL, SQLite
-- Git, GitHub, Vite, Nginx, Apache, Linux
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nuxtjs,tailwind,php,laravel,nodejs,java,spring,mysql,sqlite,git,linux" alt="Tech Stack" />
+</p>
 
 ---
 
-### 📌 Featured Projects
-- **[bora-portfolio](https://github.com/bora4-netizen/bora-portfolio)** — Personal developer portfolio showcasing web development projects and UI work
-- **[Shoping](https://github.com/bora4-netizen/Shoping)** — JavaScript web application project
+### 🎬 Featured Project Preview
+<!-- Drag and drop a .gif file here on GitHub, or replace with your YouTube thumbnail link -->
+- **[bora-portfolio](https://github.com/bora4-netizen/bora-portfolio)** — Personal developer portfolio showcasing frontend UI and web projects
+- **[Shoping](https://github.com/bora4-netizen/Shoping)** — Full-stack/JavaScript web application
 
 ---
 
-### 📊 GitHub Stats
-![Bora's GitHub stats](https://github-readme-stats.vercel.app/api?username=bora4-netizen&show_icons=true&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-- **GitHub:** [@bora4-netizen](https://github.com/bora4-netizen)
-- **Portfolio:** [Your Portfolio URL]
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email Address]
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bora4-netizen&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bora4-netizen&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
